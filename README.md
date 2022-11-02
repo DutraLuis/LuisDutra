@@ -11,6 +11,11 @@
   * Gym 🏋️‍♂️
   * Books 📖
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=linkedin.com/in/augusto-sopelsa-klaic-a98479bb/)](https://www.linkedin.com/in/dutraluis/)
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/olipeedutra.svg?style=social&label=Follow%20%40olipeedutra)](https://twitter.com/olipeedutra)
+
+
 <!--
 **LuisFelipeDutra/LuisFelipeDutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

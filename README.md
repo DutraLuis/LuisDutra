@@ -1,8 +1,13 @@
 ## Hi, I'm Luis Dutra! </h2>
 
-### I graduated in Information Systems at [PUCRS](http://www.pucrs.br/) in 2020 📚
+![HelloThereBabyYodaGIF](https://github.com/DutraLuis/LuisDutra/assets/22968456/9899f434-8d76-44c0-ace7-c592170f4e02)
 
-### Working at [Dell](https://www.dell.com/) since 2018 as a Software Engineer 💻
+
+### I graduated in Information Systems at [PUCRS](http://www.pucrs.br/) in 2020 🎓
+
+### Worked at [Dell](https://www.dell.com/) from 2018 to 2024 as .Net Software Engineer 💻
+
+### I am doing a post-graduation in Software Architecture, Data Science, and Cyber Security at PUCPR 🤓
 
 ### Interests:
   * Coding 👩‍💻
@@ -12,8 +17,6 @@
   * Books 📖
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=linkedin.com/in/augusto-sopelsa-klaic-a98479bb/)](https://www.linkedin.com/in/dutraluis/)
-
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/olipeedutra.svg?style=social&label=Follow%20%40olipeedutra)](https://twitter.com/olipeedutra)
 
 
 <!--
